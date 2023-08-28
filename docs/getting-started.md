@@ -7,7 +7,6 @@ Spicetify is a multiplatform command-line tool to customize the official Spotify
 
 ## Installation
 
-### Windows
 
 This is the installation method what we recommend for most users. It is the fastest and most reliable way to install Spicetify. 
 
